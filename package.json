@@ -1,6 +1,6 @@
 {
   "name": "template-cache",
-  "description": "Glob, cache, compile and render Lo-dash templates. ",
+  "description": "Glob, cache, compile and render Lo-dash templates.",
   "version": "0.1.0",
   "homepage": "https://github.com/jonschlinkert/template-cache",
   "author": {
@@ -21,13 +21,22 @@
     }
   ],
   "keywords": [
-    "docs",
-    "documentation",
-    "generate",
-    "generator",
-    "markdown",
+    "cache",
+    "compile",
+    "demlim",
+    "demlimiter",
+    "demlimiters",
+    "demlims",
+    "lo-dash",
+    "lodash",
+    "process",
+    "read",
+    "recurse",
+    "recursively",
+    "render",
+    "template",
     "templates",
-    "verb"
+    "underscore"
   ],
   "main": "index.js",
   "engines": {
